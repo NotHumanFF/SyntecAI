@@ -6,10 +6,10 @@ function Header(){
             AI GPT
         </h1>
         <div className="navlinkbox">
-            <a className="navlink" href="https://nothumanff.github.io/nlp/">Home</a>
-            <a className="navlink" href="https://nothumanff.github.io/nlp/">AboutUs</a>
-            <a className="navlink" href="https://nothumanff.github.io/nlp/">Blog</a>
-            <a className="navlink" href="https://nothumanff.github.io/nlp/">Contact</a>
+            <a className="navlink" href="#">Home</a>
+            <a className="navlink" href="#">AboutUs</a>
+            <a className="navlink" href="#">Blog</a>
+            <a className="navlink" href="#">Contact</a>
         </div>
         <a class="glow-on-hover" href="https://nothumanff.github.io/nlp/">Try Now </a>    
     </div>
