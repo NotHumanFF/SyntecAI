@@ -43,6 +43,7 @@ function sendMessage() {
 		'X-RapidAPI-Key': 'ab14c3b556msh4e69e239f7cd2cap197205jsn24b2c4290369',
 		'X-RapidAPI-Host': 'openai80.p.rapidapi.com'
         */
+		
 	},
         body: `{"messages":[{"role":"user","content":"${newMessage}"}]}`
         // `{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":"${message}"}]}`
