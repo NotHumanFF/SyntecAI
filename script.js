@@ -62,7 +62,6 @@ function sendMessage() {
         }
     });
 }
-
 function appendMessage(sender, message) {
     info.style.display = "none";
     buttonIcon.classList.remove('fa-solid', 'fa-paper-plane');
